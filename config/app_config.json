@@ -1,0 +1,293 @@
+{
+   "apps":{
+      "status":true,
+      "featured_categories": "3D Live Fluid, Neon & Cyberpunk Fluid, Luxury Liquid Metal, Soft Pastel Pours, Cosmic Deep Space, Elemental & Crystal",
+      "show_wallpaper_name":true,
+      "show_wallpaper_category":true,
+      "show_favorite_button_in_wallpaper_list":true,
+      "enable_slider_wallpaper":false,
+      "enable_rtl_mode":false,
+      "enable_exit_dialog":true,
+      "enable_vpn_access":false,
+      "enable_dark_mode_as_default_theme":true,
+      "enable_more_apps":true,
+      "redirect_url":"",
+      "privacy_policy_url":"https://orvixa-studio.blogspot.com/p/privacy-policy-fluid-wallpapers-3d-live.html"
+   },
+   "ads":{
+      "mainAds":"admob",
+      "backupAds":"none",
+      "adStatus":true,
+      "interstitialInterval":3,
+      "bannerStatus":true,
+      "interstitialStatus":true,
+      "nativeStatus":true,
+      "rewardedStatus":true,
+      "appOpenStatus":false,
+      "mainAdmobAppId":"ca-app-pub-4631404232937485~3773044845",
+      "mainAdManagerAppId":"0",
+      "mainStartappAppId":"0",
+      "mainUnityGameId":"0",
+      "mainIronsourceAppKey":"0",
+      "mainApplovinSdkKey":"0",
+      "mainBannerId":"ca-app-pub-4631404232937485/5524311453",
+      "mainInterstitialId":"ca-app-pub-4631404232937485/6988602211",
+      "mainNativeId":"ca-app-pub-4631404232937485/5675520541",
+      "mainRewardedId":"ca-app-pub-4631404232937485/8892710821",
+      "mainAppOpenId":"ca-app-pub-4631404232937485/7579629152",
+      "backupAdmobAppId":"0",
+      "backupAdManagerAppId":"0",
+      "backupStartappAppId":"0",
+      "backupUnityGameId":"0",
+      "backupIronsourceAppKey":"0",
+      "backupApplovinSdkKey":"0",
+      "backupBannerId":"0",
+      "backupInterstitialId":"0",
+      "backupNativeId":"0",
+      "backupRewardedId":"0",
+      "backupAppOpenId":"0"
+   },
+   "categories":[
+      {
+         "category_id":1,
+         "category_name":"3D Live Fluid",
+         "category_image":"3d-live-fluid.jpg",
+         "prompt":"Stunning 3D fluid motion abstract background banner, highly detailed, horizontal 2:1 aspect ratio."
+      },
+      {
+         "category_id":2,
+         "category_name":"Neon & Cyberpunk Fluid",
+         "category_image":"neon-cyberpunk-fluid.jpg",
+         "prompt":"Glowing neon pink and cyan 3D fluid abstract background banner, cyberpunk aesthetic, horizontal 2:1 aspect ratio."
+      },
+      {
+         "category_id":3,
+         "category_name":"Luxury Liquid Metal",
+         "category_image":"luxury-liquid-metal.jpg",
+         "prompt":"Molten liquid gold and silver 3D fluid abstract background banner, highly reflective, horizontal 2:1 aspect ratio."
+      },
+      {
+         "category_id":4,
+         "category_name":"Soft Pastel Pours",
+         "category_image":"soft-pastel-pours.jpg",
+         "prompt":"Soft pastel lavender and peach acrylic pour 3D fluid abstract banner, matte finish, horizontal 2:1 aspect ratio."
+      },
+      {
+         "category_id":5,
+         "category_name":"Cosmic Deep Space",
+         "category_image":"cosmic-deep-space.jpg",
+         "prompt":"Deep space nebula colors in a 3D fluid abstract background banner, glowing stardust, horizontal 2:1 aspect ratio."
+      },
+      {
+         "category_id":6,
+         "category_name":"Elemental & Crystal",
+         "category_image":"elemental-crystal.jpg",
+         "prompt":"Glacial ice and crystal shards 3D fluid abstract background banner, glowing nature elements, horizontal 2:1 aspect ratio."
+      }
+   ],
+   "wallpapers":[
+      {
+         "wallpaper_id":1,
+         "category_name":"3D Live Fluid",
+         "wallpaper_name":"Neon Ink Drop Live",
+         "wallpaper_thumbnail":"neon-ink-drop-live.jpg",
+         "wallpaper_url":"neon-ink-drop-live.mp4",
+         "wallpaper_type":"live",
+         "rewarded":true,
+         "prompt":"Macro shot of glowing neon pink and cyan ink dropping into clear water, blending smoothly in 3D space. Vertical 9:20 aspect ratio. Slow motion, 4K resolution. 8-second duration, perfect seamless loop."
+      },
+      {
+         "wallpaper_id":2,
+         "category_name":"3D Live Fluid",
+         "wallpaper_name":"Liquid Gold & Onyx Live",
+         "wallpaper_thumbnail":"liquid-gold-onyx-live.jpg",
+         "wallpaper_url":"liquid-gold-onyx-live.mp4",
+         "wallpaper_type":"live",
+         "rewarded":true,
+         "prompt":"Abstract 3D fluid simulation of molten liquid gold and glossy black onyx mixing together. Vertical 9:20 aspect ratio. Slow motion, 4k resolution. 8-second duration, perfect seamless loop."
+      },
+      {
+         "wallpaper_id":3,
+         "category_name":"3D Live Fluid",
+         "wallpaper_name":"Iridescent Pearl Live",
+         "wallpaper_thumbnail":"iridescent-pearl-live.jpg",
+         "wallpaper_url":"iridescent-pearl-live.mp4",
+         "wallpaper_type":"live",
+         "rewarded":true,
+         "prompt":"A 3D morphing liquid blob with iridescent pearl-like textures, reflecting rainbow colors. Vertical 9:20 aspect ratio. Satisfying ASMR motion. 8-second duration, perfect seamless loop."
+      },
+      {
+         "wallpaper_id":4,
+         "category_name":"3D Live Fluid",
+         "wallpaper_name":"Holographic Fluid Live",
+         "wallpaper_thumbnail":"holographic-fluid-live.jpg",
+         "wallpaper_url":"holographic-fluid-live.mp4",
+         "wallpaper_type":"live",
+         "rewarded":true,
+         "prompt":"Holographic metallic liquid flowing and rippling like a silky fabric. Synthwave color palette. Vertical format 9:20 aspect ratio. 8-second duration, perfect seamless loop."
+      },
+      {
+         "wallpaper_id":5,
+         "category_name":"3D Live Fluid",
+         "wallpaper_name":"Bioluminescent Flow Live",
+         "wallpaper_thumbnail":"bioluminescent-flow-live.jpg",
+         "wallpaper_url":"bioluminescent-flow-live.mp4",
+         "wallpaper_type":"live",
+         "rewarded":true,
+         "prompt":"Dark blue 3D fluid with glowing bioluminescent particles. Endless downward flowing motion. Vertical 9:20 aspect ratio. Constant uniform speed, slow motion. 8-second duration."
+      },
+      {
+         "wallpaper_id":6,
+         "category_name":"3D Live Fluid",
+         "wallpaper_name":"Pastel Acrylic Pour Live",
+         "wallpaper_thumbnail":"pastel-acrylic-pour-live.jpg",
+         "wallpaper_url":"pastel-acrylic-pour-live.mp4",
+         "wallpaper_type":"live",
+         "rewarded":true,
+         "prompt":"Thick 3D acrylic paint in soft pastel colors (mint, peach, lavender) cascading slowly downwards. Vertical 9:20 aspect ratio. Steady movement, 4K resolution, 8-second duration."
+      },
+      {
+         "wallpaper_id":7,
+         "category_name":"3D Live Fluid",
+         "wallpaper_name":"Chrome Mercury Live",
+         "wallpaper_thumbnail":"chrome-mercury-live.jpg",
+         "wallpaper_url":"chrome-mercury-live.mp4",
+         "wallpaper_type":"live",
+         "rewarded":true,
+         "prompt":"Highly reflective liquid chrome rotating continuously in a clockwise direction. Vertical 9:20 aspect ratio. Organic morphing shapes, steady slow motion. 8-second duration."
+      },
+      {
+         "wallpaper_id":8,
+         "category_name":"3D Live Fluid",
+         "wallpaper_name":"Cosmic Plasma Live",
+         "wallpaper_thumbnail":"cosmic-plasma-live.jpg",
+         "wallpaper_url":"cosmic-plasma-live.mp4",
+         "wallpaper_type":"live",
+         "rewarded":true,
+         "prompt":"Vibrant swirling plasma fluid in deep space colors. Constantly expanding outwards from the center in a smooth motion. Vertical 9:20 aspect ratio. 4K resolution, 8-second duration."
+      },
+      {
+         "wallpaper_id":9,
+         "category_name":"3D Live Fluid",
+         "wallpaper_name":"Modern Lava Flow Live",
+         "wallpaper_thumbnail":"modern-lava-flow-live.jpg",
+         "wallpaper_url":"modern-lava-flow-live.mp4",
+         "wallpaper_type":"live",
+         "rewarded":true,
+         "prompt":"Modern 3D interpretation of a lava lamp, glowing warm orange fluids. Endless rising motion upwards. Vertical 9:20 aspect ratio. Steady continuous flow, 8-second duration."
+      },
+      {
+         "wallpaper_id":10,
+         "category_name":"3D Live Fluid",
+         "wallpaper_name":"Smoke Liquid Hybrid Live",
+         "wallpaper_thumbnail":"smoke-liquid-hybrid-live.jpg",
+         "wallpaper_url":"smoke-liquid-hybrid-live.mp4",
+         "wallpaper_type":"live",
+         "rewarded":true,
+         "prompt":"A hybrid of dense colorful smoke and thick liquid drifting slowly to the right in zero-gravity. Vertical 9:20 aspect ratio. Constant steady motion. 8-second duration."
+      },
+      {
+         "wallpaper_id":11,
+         "category_name":"Neon & Cyberpunk Fluid",
+         "wallpaper_name":"Neon Pink Cyan Static",
+         "wallpaper_thumbnail":"neon-pink-cyan-static.jpg",
+         "wallpaper_url":"neon-pink-cyan-static.jpg",
+         "wallpaper_type":"static",
+         "rewarded":true,
+         "prompt":"Glowing neon pink and cyan 3D fluid abstract background, macro photography, highly detailed, 8k resolution, vertical 9:20 aspect ratio."
+      },
+      {
+         "wallpaper_id":12,
+         "category_name":"Neon & Cyberpunk Fluid",
+         "wallpaper_name":"Neon Green Purple",
+         "wallpaper_thumbnail":"neon-green-purple.jpg",
+         "wallpaper_url":"neon-green-purple.jpg",
+         "wallpaper_type":"static",
+         "rewarded":true,
+         "prompt":"Glowing neon green and purple 3D fluid abstract background, macro photography, highly detailed, 8k resolution, vertical 9:20 aspect ratio."
+      },
+      {
+         "wallpaper_id":13,
+         "category_name":"Neon & Cyberpunk Fluid",
+         "wallpaper_name":"Neon Orange Blue",
+         "wallpaper_thumbnail":"neon-orange-blue.jpg",
+         "wallpaper_url":"neon-orange-blue.jpg",
+         "wallpaper_type":"static",
+         "rewarded":true,
+         "prompt":"Glowing neon orange and blue 3D fluid abstract background, macro photography, highly detailed, 8k resolution, vertical 9:20 aspect ratio."
+      },
+      {
+         "wallpaper_id":14,
+         "category_name":"Neon & Cyberpunk Fluid",
+         "wallpaper_name":"Neon Yellow Magenta",
+         "wallpaper_thumbnail":"neon-yellow-magenta.jpg",
+         "wallpaper_url":"neon-yellow-magenta.jpg",
+         "wallpaper_type":"static",
+         "rewarded":true,
+         "prompt":"Glowing neon yellow and magenta 3D fluid abstract background, macro photography, highly detailed, 8k resolution, vertical 9:20 aspect ratio."
+      },
+      {
+         "wallpaper_id":15,
+         "category_name":"Neon & Cyberpunk Fluid",
+         "wallpaper_name":"Neon Red Black",
+         "wallpaper_thumbnail":"neon-red-black.jpg",
+         "wallpaper_url":"neon-red-black.jpg",
+         "wallpaper_type":"static",
+         "rewarded":true,
+         "prompt":"Glowing neon red and pitch black 3D fluid abstract background, macro photography, highly detailed, 8k resolution, vertical 9:20 aspect ratio."
+      },
+      {
+         "wallpaper_id":16,
+         "category_name":"Neon & Cyberpunk Fluid",
+         "wallpaper_name":"Cyberpunk Fluid Art",
+         "wallpaper_thumbnail":"cyberpunk-fluid-art.jpg",
+         "wallpaper_url":"cyberpunk-fluid-art.jpg",
+         "wallpaper_type":"static",
+         "rewarded":true,
+         "prompt":"Cyberpunk aesthetic neon pink and dark blue 3D fluid abstract background, futuristic textures, highly detailed, 8k resolution, vertical 9:20 aspect ratio."
+      },
+      {
+         "wallpaper_id":17,
+         "category_name":"Neon & Cyberpunk Fluid",
+         "wallpaper_name":"Neon Plasma Wave",
+         "wallpaper_thumbnail":"neon-plasma-wave.jpg",
+         "wallpaper_url":"neon-plasma-wave.jpg",
+         "wallpaper_type":"static",
+         "rewarded":true,
+         "prompt":"Vibrant neon plasma wave 3D fluid abstract background, electric textures, macro photography, highly detailed, 8k resolution, vertical 9:20 aspect ratio."
+      },
+      {
+         "wallpaper_id":18,
+         "category_name":"Neon & Cyberpunk Fluid",
+         "wallpaper_name":"Radioactive Green",
+         "wallpaper_thumbnail":"radioactive-green.jpg",
+         "wallpaper_url":"radioactive-green.jpg",
+         "wallpaper_type":"static",
+         "rewarded":true,
+         "prompt":"Toxic radioactive green glowing 3D fluid abstract background, striking contrast, macro photography, highly detailed, 8k resolution, vertical 9:20 aspect ratio."
+      },
+      {
+         "wallpaper_id":19,
+         "category_name":"Neon & Cyberpunk Fluid",
+         "wallpaper_name":"Bioluminescent Blue",
+         "wallpaper_thumbnail":"bioluminescent-blue.jpg",
+         "wallpaper_url":"bioluminescent-blue.jpg",
+         "wallpaper_type":"static",
+         "rewarded":true,
+         "prompt":"Bioluminescent blue glowing 3D fluid abstract background, dark contrast, macro photography, highly detailed, 8k resolution, vertical 9:20 aspect ratio."
+      },
+      {
+         "wallpaper_id":20,
+         "category_name":"Neon & Cyberpunk Fluid",
+         "wallpaper_name":"Holographic Rainbow",
+         "wallpaper_thumbnail":"holographic-rainbow.jpg",
+         "wallpaper_url":"holographic-rainbow.jpg",
+         "wallpaper_type":"static",
+         "rewarded":true,
+         "prompt":"Holographic rainbow 3D fluid abstract background, iridescent neon textures, highly detailed, 8k resolution, vertical 9:20 aspect ratio."
+      }
+   ],
+   "more_apps":[
+      
+   ]
+}

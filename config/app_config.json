@@ -1,7 +1,7 @@
 {
    "apps":{
       "status":true,
-      "featured_categories": "3D Live Fluid, Neon & Cyberpunk Fluid, Luxury Liquid Metal, Soft Pastel Pours, Cosmic Deep Space, Elemental & Crystal",
+      "featured_categories":"3D Live Fluid, Neon & Cyberpunk Fluid, Luxury Liquid Metal, Soft Pastel Pours, Cosmic Deep Space, Elemental & Crystal",
       "show_wallpaper_name":true,
       "show_wallpaper_category":true,
       "show_favorite_button_in_wallpaper_list":true,
@@ -285,9 +285,326 @@
          "wallpaper_type":"static",
          "rewarded":true,
          "prompt":"Holographic rainbow 3D fluid abstract background, iridescent neon textures, highly detailed, 8k resolution, vertical 9:20 aspect ratio."
+      },
+      {
+         "wallpaper_id":21,
+         "category_name":"Luxury Liquid Metal",
+         "wallpaper_name":"Molten Gold Flow Live",
+         "wallpaper_thumbnail":"molten-gold-flow-live.jpg",
+         "wallpaper_url":"molten-gold-flow-live.mp4",
+         "wallpaper_type":"live",
+         "rewarded":false,
+         "prompt":"Molten liquid gold fluid slowly cascading downwards. Vertical 9:20 aspect ratio. Highly reflective, studio lighting. Constant uniform speed, slow motion, 8-second duration."
+      },
+      {
+         "wallpaper_id":22,
+         "category_name":"Luxury Liquid Metal",
+         "wallpaper_name":"Liquid Silver Waves Live",
+         "wallpaper_thumbnail":"liquid-silver-waves-live.jpg",
+         "wallpaper_url":"liquid-silver-waves-live.mp4",
+         "wallpaper_type":"live",
+         "rewarded":false,
+         "prompt":"Liquid silver metal rolling in elegant waves. Vertical 9:20 aspect ratio. Highly reflective, dark clean background. Constant uniform speed, slow motion, 8-second duration."
+      },
+      {
+         "wallpaper_id":23,
+         "category_name":"Soft Pastel Pours",
+         "wallpaper_name":"Pastel Mint Peach Live",
+         "wallpaper_thumbnail":"pastel-mint-peach-live.jpg",
+         "wallpaper_url":"pastel-mint-peach-live.mp4",
+         "wallpaper_type":"live",
+         "rewarded":false,
+         "prompt":"Soft pastel mint and peach acrylic paint swirling continuously. Vertical 9:20 aspect ratio. Matte finish, soft lighting. Constant uniform speed, slow motion, 8-second duration."
+      },
+      {
+         "wallpaper_id":24,
+         "category_name":"Soft Pastel Pours",
+         "wallpaper_name":"Pastel Lavender Blue Live",
+         "wallpaper_thumbnail":"pastel-lavender-blue-live.jpg",
+         "wallpaper_url":"pastel-lavender-blue-live.mp4",
+         "wallpaper_type":"live",
+         "rewarded":false,
+         "prompt":"Soft pastel lavender and blue liquid blending organically. Vertical 9:20 aspect ratio. Matte finish, soft lighting. Constant uniform speed, slow motion, 8-second duration."
+      },
+      {
+         "wallpaper_id":25,
+         "category_name":"Soft Pastel Pours",
+         "wallpaper_name":"Pastel Coral Cream Live",
+         "wallpaper_thumbnail":"pastel-coral-cream-live.jpg",
+         "wallpaper_url":"pastel-coral-cream-live.mp4",
+         "wallpaper_type":"live",
+         "rewarded":false,
+         "prompt":"Soft pastel coral and cream 3D fluid sliding downwards smoothly. Vertical 9:20 aspect ratio. Relaxing movement. Constant uniform speed, slow motion, 8-second duration."
+      },
+      {
+         "wallpaper_id":26,
+         "category_name":"Cosmic Deep Space",
+         "wallpaper_name":"Nebula Fluid Space Live",
+         "wallpaper_thumbnail":"nebula-fluid-space-live.jpg",
+         "wallpaper_url":"nebula-fluid-space-live.mp4",
+         "wallpaper_type":"live",
+         "rewarded":false,
+         "prompt":"Deep space nebula colors in a 3D fluid rotating slowly. Vertical 9:20 aspect ratio. Cosmic textures, glowing stardust. Constant uniform speed, slow motion, 8-second duration."
+      },
+      {
+         "wallpaper_id":27,
+         "category_name":"Cosmic Deep Space",
+         "wallpaper_name":"Galaxy Swirl Liquid Live",
+         "wallpaper_thumbnail":"galaxy-swirl-liquid-live.jpg",
+         "wallpaper_url":"galaxy-swirl-liquid-live.mp4",
+         "wallpaper_type":"live",
+         "rewarded":false,
+         "prompt":"Swirling galaxy milky way 3D fluid in purple and dark blue. Vertical 9:20 aspect ratio. Cosmic textures in zero gravity. Constant uniform speed, slow motion, 8-second duration."
+      },
+      {
+         "wallpaper_id":28,
+         "category_name":"Elemental & Crystal",
+         "wallpaper_name":"Water & Ice Fluid Live",
+         "wallpaper_thumbnail":"water-ice-fluid-live.jpg",
+         "wallpaper_url":"water-ice-fluid-live.mp4",
+         "wallpaper_type":"live",
+         "rewarded":false,
+         "prompt":"Glacial blue water and freezing ice 3D fluid flowing gracefully. Vertical 9:20 aspect ratio. Crystal clear refractive textures. Constant uniform speed, slow motion, 8-second duration."
+      },
+      {
+         "wallpaper_id":29,
+         "category_name":"Elemental & Crystal",
+         "wallpaper_name":"Liquid Glass Clear Live",
+         "wallpaper_thumbnail":"liquid-glass-clear-live.jpg",
+         "wallpaper_url":"liquid-glass-clear-live.mp4",
+         "wallpaper_type":"live",
+         "rewarded":false,
+         "prompt":"Transparent liquid glass moving endlessly like a waterfall. Vertical 9:20 aspect ratio. Bending light beautifully. Constant uniform speed, slow motion, 8-second duration."
+      },
+      {
+         "wallpaper_id":30,
+         "category_name":"Elemental & Crystal",
+         "wallpaper_name":"Crystal Shards Fluid Live",
+         "wallpaper_thumbnail":"crystal-shards-fluid-live.jpg",
+         "wallpaper_url":"crystal-shards-fluid-live.mp4",
+         "wallpaper_type":"live",
+         "rewarded":false,
+         "prompt":"Liquid containing small glowing crystal shards drifting slowly upwards. Vertical 9:20 aspect ratio. Sharp refractive textures. Constant uniform speed, slow motion, 8-second duration."
+      },
+      {
+         "wallpaper_id":31,
+         "category_name":"Luxury Liquid Metal",
+         "wallpaper_name":"Copper Liquid Splash",
+         "wallpaper_thumbnail":"copper-liquid-splash.jpg",
+         "wallpaper_url":"copper-liquid-splash.jpg",
+         "wallpaper_type":"static",
+         "rewarded":true,
+         "prompt":"Molten copper liquid 3D fluid abstract background, highly reflective, macro photography, highly detailed, 8k resolution, vertical 9:20 aspect ratio."
+      },
+      {
+         "wallpaper_id":32,
+         "category_name":"Luxury Liquid Metal",
+         "wallpaper_name":"Rose Gold Abstract",
+         "wallpaper_thumbnail":"rose-gold-abstract.jpg",
+         "wallpaper_url":"rose-gold-abstract.jpg",
+         "wallpaper_type":"static",
+         "rewarded":true,
+         "prompt":"Rose gold metallic 3D fluid abstract background, highly reflective, macro photography, highly detailed, 8k resolution, vertical 9:20 aspect ratio."
+      },
+      {
+         "wallpaper_id":33,
+         "category_name":"Luxury Liquid Metal",
+         "wallpaper_name":"Onyx Gold Fusion",
+         "wallpaper_thumbnail":"onyx-gold-fusion.jpg",
+         "wallpaper_url":"onyx-gold-fusion.jpg",
+         "wallpaper_type":"static",
+         "rewarded":true,
+         "prompt":"Dark onyx black and liquid gold 3D fluid abstract background, elegant contrast, highly detailed, 8k resolution, vertical 9:20 aspect ratio."
+      },
+      {
+         "wallpaper_id":34,
+         "category_name":"Luxury Liquid Metal",
+         "wallpaper_name":"Bronze Fluid Art",
+         "wallpaper_thumbnail":"bronze-fluid-art.jpg",
+         "wallpaper_url":"bronze-fluid-art.jpg",
+         "wallpaper_type":"static",
+         "rewarded":true,
+         "prompt":"Dark bronze metallic 3D fluid abstract background, highly reflective, macro photography, highly detailed, 8k resolution, vertical 9:20 aspect ratio."
+      },
+      {
+         "wallpaper_id":35,
+         "category_name":"Luxury Liquid Metal",
+         "wallpaper_name":"Diamond Liquid Flow",
+         "wallpaper_thumbnail":"diamond-liquid-flow.jpg",
+         "wallpaper_url":"diamond-liquid-flow.jpg",
+         "wallpaper_type":"static",
+         "rewarded":true,
+         "prompt":"Sparkling liquid diamond 3D fluid abstract background, intensely reflective, highly detailed, 8k resolution, vertical 9:20 aspect ratio."
+      },
+      {
+         "wallpaper_id":36,
+         "category_name":"Soft Pastel Pours",
+         "wallpaper_name":"Milk Honey Flow",
+         "wallpaper_thumbnail":"milk-honey-flow.jpg",
+         "wallpaper_url":"milk-honey-flow.jpg",
+         "wallpaper_type":"static",
+         "rewarded":false,
+         "prompt":"Creamy white milk and golden honey 3D fluid abstract background, smooth textures, macro photography, highly detailed, 8k resolution, vertical 9:20 aspect ratio."
+      },
+      {
+         "wallpaper_id":37,
+         "category_name":"Soft Pastel Pours",
+         "wallpaper_name":"Cream Strawberry",
+         "wallpaper_thumbnail":"cream-strawberry.jpg",
+         "wallpaper_url":"cream-strawberry.jpg",
+         "wallpaper_type":"static",
+         "rewarded":false,
+         "prompt":"White cream and strawberry red 3D fluid abstract background, smooth swirling textures, highly detailed, 8k resolution, vertical 9:20 aspect ratio."
+      },
+      {
+         "wallpaper_id":38,
+         "category_name":"Soft Pastel Pours",
+         "wallpaper_name":"Satin Blue Liquid",
+         "wallpaper_thumbnail":"satin-blue-liquid.jpg",
+         "wallpaper_url":"satin-blue-liquid.jpg",
+         "wallpaper_type":"static",
+         "rewarded":false,
+         "prompt":"Smooth satin blue 3D fluid abstract background, soft glowing reflections, macro photography, highly detailed, 8k resolution, vertical 9:20 aspect ratio."
+      },
+      {
+         "wallpaper_id":39,
+         "category_name":"Soft Pastel Pours",
+         "wallpaper_name":"Cloud Vapor Liquid",
+         "wallpaper_thumbnail":"cloud-vapor-liquid.jpg",
+         "wallpaper_url":"cloud-vapor-liquid.jpg",
+         "wallpaper_type":"static",
+         "rewarded":false,
+         "prompt":"White cloud and misty vapor 3D fluid abstract background, soft ethereal textures, macro photography, highly detailed, 8k resolution, vertical 9:20 aspect ratio."
+      },
+      {
+         "wallpaper_id":40,
+         "category_name":"Soft Pastel Pours",
+         "wallpaper_name":"Silk Ribbon Fluid",
+         "wallpaper_thumbnail":"silk-ribbon-fluid.jpg",
+         "wallpaper_url":"silk-ribbon-fluid.jpg",
+         "wallpaper_type":"static",
+         "rewarded":false,
+         "prompt":"Flowing crimson red silk 3D fluid abstract background, fabric-like soft liquid textures, highly detailed, 8k resolution, vertical 9:20 aspect ratio."
+      },
+      {
+         "wallpaper_id":41,
+         "category_name":"Cosmic Deep Space",
+         "wallpaper_name":"Stardust Liquid",
+         "wallpaper_thumbnail":"stardust-liquid.jpg",
+         "wallpaper_url":"stardust-liquid.jpg",
+         "wallpaper_type":"static",
+         "rewarded":false,
+         "prompt":"Liquid containing glowing stardust particles 3D fluid abstract background, magical cosmos textures, highly detailed, 8k resolution, vertical 9:20 aspect ratio."
+      },
+      {
+         "wallpaper_id":42,
+         "category_name":"Cosmic Deep Space",
+         "wallpaper_name":"Supernova Liquid",
+         "wallpaper_thumbnail":"supernova-liquid.jpg",
+         "wallpaper_url":"supernova-liquid.jpg",
+         "wallpaper_type":"static",
+         "rewarded":false,
+         "prompt":"Explosive supernova bright light in a 3D fluid abstract background, intense orange and white textures, highly detailed, 8k resolution, vertical 9:20 aspect ratio."
+      },
+      {
+         "wallpaper_id":43,
+         "category_name":"Cosmic Deep Space",
+         "wallpaper_name":"Dark Matter Flow",
+         "wallpaper_thumbnail":"dark-matter-flow.jpg",
+         "wallpaper_url":"dark-matter-flow.jpg",
+         "wallpaper_type":"static",
+         "rewarded":false,
+         "prompt":"Mysterious dark matter 3D fluid abstract background, deep black with subtle purple glows, highly detailed, 8k resolution, vertical 9:20 aspect ratio."
+      },
+      {
+         "wallpaper_id":44,
+         "category_name":"Cosmic Deep Space",
+         "wallpaper_name":"Astral Liquid Art",
+         "wallpaper_thumbnail":"astral-liquid-art.jpg",
+         "wallpaper_url":"astral-liquid-art.jpg",
+         "wallpaper_type":"static",
+         "rewarded":false,
+         "prompt":"Astral projection glowing aura 3D fluid abstract background, spiritual cosmos textures, highly detailed, 8k resolution, vertical 9:20 aspect ratio."
+      },
+      {
+         "wallpaper_id":45,
+         "category_name":"Cosmic Deep Space",
+         "wallpaper_name":"Meteor Shower Liquid",
+         "wallpaper_thumbnail":"meteor-shower-liquid.jpg",
+         "wallpaper_url":"meteor-shower-liquid.jpg",
+         "wallpaper_type":"static",
+         "rewarded":false,
+         "prompt":"Fiery meteor shower streaks in a 3D fluid abstract background, dynamic cosmic textures, highly detailed, 8k resolution, vertical 9:20 aspect ratio."
+      },
+      {
+         "wallpaper_id":46,
+         "category_name":"Elemental & Crystal",
+         "wallpaper_name":"Deep Ocean Swirl",
+         "wallpaper_thumbnail":"deep-ocean-swirl.jpg",
+         "wallpaper_url":"deep-ocean-swirl.jpg",
+         "wallpaper_type":"static",
+         "rewarded":false,
+         "prompt":"Deep ocean blue marine 3D fluid abstract background, swirling currents, macro photography, highly detailed, 8k resolution, vertical 9:20 aspect ratio."
+      },
+      {
+         "wallpaper_id":47,
+         "category_name":"Elemental & Crystal",
+         "wallpaper_name":"Forest Moss Liquid",
+         "wallpaper_thumbnail":"forest-moss-liquid.jpg",
+         "wallpaper_url":"forest-moss-liquid.jpg",
+         "wallpaper_type":"static",
+         "rewarded":false,
+         "prompt":"Earthy green forest moss 3D fluid abstract background, organic textures, macro photography, highly detailed, 8k resolution, vertical 9:20 aspect ratio."
+      },
+      {
+         "wallpaper_id":48,
+         "category_name":"Elemental & Crystal",
+         "wallpaper_name":"Quartz Fluid Crystal",
+         "wallpaper_thumbnail":"quartz-fluid-crystal.jpg",
+         "wallpaper_url":"quartz-fluid-crystal.jpg",
+         "wallpaper_type":"static",
+         "rewarded":false,
+         "prompt":"Rose quartz inspired 3D fluid abstract background, semi-transparent pink textures, macro photography, highly detailed, 8k resolution, vertical 9:20 aspect ratio."
+      },
+      {
+         "wallpaper_id":49,
+         "category_name":"Elemental & Crystal",
+         "wallpaper_name":"Amethyst Liquid",
+         "wallpaper_thumbnail":"amethyst-liquid.jpg",
+         "wallpaper_url":"amethyst-liquid.jpg",
+         "wallpaper_type":"static",
+         "rewarded":false,
+         "prompt":"Deep purple amethyst gem 3D fluid abstract background, magical crystalline textures, macro photography, highly detailed, 8k resolution, vertical 9:20 aspect ratio."
+      },
+      {
+         "wallpaper_id":50,
+         "category_name":"Elemental & Crystal",
+         "wallpaper_name":"Sapphire Fluid Drop",
+         "wallpaper_thumbnail":"sapphire-fluid-drop.jpg",
+         "wallpaper_url":"sapphire-fluid-drop.jpg",
+         "wallpaper_type":"static",
+         "rewarded":false,
+         "prompt":"Oceanic blue sapphire 3D fluid abstract background, elegant liquid gem textures, macro photography, highly detailed, 8k resolution, vertical 9:20 aspect ratio."
       }
    ],
    "more_apps":[
-      
+      {
+         "id":1,
+         "title":"Material Palette Wallpapers 4K",
+         "image":"https://cdn.jsdelivr.net/gh/orvixastudio/com.orvixa.material.palette.wallpapers@main/ic_launcher.png",
+         "url":"https://play.google.com/store/apps/details?id=com.orvixa.material.palette.wallpapers"
+      },
+      {
+         "id":2,
+         "title":"Retro Y2K Aesthetic Wallpapers 4K",
+         "image":"https://cdn.jsdelivr.net/gh/orvixastudio/com.orvixa.y2kwallpaper@main/ic_launcher.png",
+         "url":"https://play.google.com/store/apps/details?id=com.orvixa.y2kwallpaper"
+      },
+      {
+         "id":3,
+         "title":"Miami Urban Wallpapers 4K",
+         "image":"https://cdn.jsdelivr.net/gh/orvixastudio/com.orvixa.miami.urban.wallpapers@main/ic_launcher.png",
+         "url":"https://play.google.com/store/apps/details?id=com.orvixa.miami.urban.wallpapers"
+      }
    ]
 }
